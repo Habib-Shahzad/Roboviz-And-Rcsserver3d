@@ -1,0 +1,1 @@
+docker pull rcss3d/rcssserver3d:latest && docker run -p 3200:3200 rcss3d/rcssserver3d
