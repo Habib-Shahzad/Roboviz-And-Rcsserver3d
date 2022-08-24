@@ -1,1 +1,1 @@
-cd bin && sh roboviz.sh
+cd bin && "./roboviz"

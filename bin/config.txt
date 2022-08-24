@@ -30,7 +30,7 @@ Player IDs           : true
 Auto-Connect         : true
 Auto-Connect Delay   : 1000
 Default Server       : localhost:3200
-Drawing Port         : 32769
+Drawing Port         : 3300
 # To store more servers, just insert more "Server" lines
 Server               : localhost:3200
 
