@@ -12,7 +12,7 @@ Target FPS           : 60
 First Person FOV     : 120
 Third Person FOV     : 80
 Frame Width          : 1024
-Frame Height         : 768
+Frame Height         : 766
 Frame X              : 0
 Frame Y              : 0
 Center Frame         : true
@@ -28,7 +28,7 @@ Player IDs           : true
 
 # Networking Settings
 Auto-Connect         : true
-Auto-Connect Delay   : 1000
+Auto-Connect Delay   : 5000
 Default Server       : localhost:3200
 Drawing Port         : 3300
 # To store more servers, just insert more "Server" lines
